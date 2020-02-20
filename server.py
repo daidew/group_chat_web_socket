@@ -138,6 +138,7 @@ Enter following number to:\n\
     (2) Join chat room\n\
     (3) List available chat room\n\
     (4) Set username\n\
+    (5) Exit program\n\
 \
 Who needs password anyway?\n\
 ===================================\n"
